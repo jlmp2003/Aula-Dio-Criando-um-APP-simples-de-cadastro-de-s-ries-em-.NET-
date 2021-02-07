@@ -1,0 +1,7 @@
+C:\Users\JLMP\Documents\Dio.Series\Dio.Series\bin\Debug\Dio.Series.exe.config
+C:\Users\JLMP\Documents\Dio.Series\Dio.Series\bin\Debug\Dio.Series.exe
+C:\Users\JLMP\Documents\Dio.Series\Dio.Series\bin\Debug\Dio.Series.pdb
+C:\Users\JLMP\Documents\Dio.Series\Dio.Series\obj\Debug\Dio.Series.csprojAssemblyReference.cache
+C:\Users\JLMP\Documents\Dio.Series\Dio.Series\obj\Debug\Dio.Series.csproj.CoreCompileInputs.cache
+C:\Users\JLMP\Documents\Dio.Series\Dio.Series\obj\Debug\Dio.Series.exe
+C:\Users\JLMP\Documents\Dio.Series\Dio.Series\obj\Debug\Dio.Series.pdb
